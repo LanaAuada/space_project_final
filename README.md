@@ -1,4 +1,4 @@
-# Trabalho Global Solution - Generative AI for Engineering
+# Global Solution - Generative AI for Engineering
 ## Predição de Risco de Colisão Orbital na Economia Espacial
 
 ### Integrantes:
@@ -6,6 +6,9 @@ João Rodrigo Solano Nogueira RM551319
 Julia Amorim Bezerra RM99609  
 Lana Giulia Auada Leite RM551143  
 Tony Willian da Silva Segalin RM550667 
+
+### A pasta space_project refere-se ao projeto com os resultados e outputs e a pasta space_project_clean refere-se ao projeto a ser executado à mão.
+### A pasta prints_dash_deploy refere-se a amostra da aplicação no Streamlit.
 
 ---
 
