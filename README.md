@@ -48,6 +48,7 @@ Além das variáveis originais, foram criadas novas variáveis derivadas por mei
 ## Modelos Testados 
 
 Classificação do Nível de Risco: XGBoost Classifier e Random Forest Classifier
+
 Regressão da Probabilidade de Colisão (Pc): XGBoost Regressor
 
 ## Resultados
