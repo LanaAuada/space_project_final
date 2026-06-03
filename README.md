@@ -32,6 +32,7 @@ O dataset contém mais de 1.000 registros e mais de 10 variáveis relacionadas �
 - Tempo até o TCA (Time of Closest Approach)
 - Índice de atividade solar F10.7
 
+
 Além das variáveis originais, foram criadas novas variáveis derivadas por meio de Feature Engineering.
 
 ## Metodologia
