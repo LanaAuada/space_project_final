@@ -72,6 +72,8 @@ As variáveis mais influentes identificadas foram:
 - rcs_objeto2_m2 - Tamanho efetivo do segundo objeto
 - energia_cinetica - Potencial destrutivo da colisão
 - indice_solar_f107 - Influência da atividade solar nas órbitas
+
+
 Os resultados demonstraram coerência com os princípios físicos da dinâmica orbital, indicando que o modelo aprendeu relações plausíveis para a estimativa de risco.
 
 ## Estrutura do Projeto
