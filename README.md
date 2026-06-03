@@ -115,7 +115,7 @@ pip install streamlit scikit-learn shap plotly pandas numpy matplotlib seaborn j
 jupyter notebook notebooks/pipeline_orbital_risk.ipynb
 ```
 
-Rodando manualmente, xecute todas as células em ordem. O notebook cobre:
+Rodando manualmente, execute todas as células em ordem. O notebook cobre:
 - Etapa 1: Geração do dataset sintético
 - Etapa 2: Análise exploratória (EDA)
 - Etapa 3: Pré-processamento e feature engineering
