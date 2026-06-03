@@ -16,8 +16,6 @@ Tony Willian da Silva Segalin RM550667
 
 O crescimento acelerado da Economia Espacial, impulsionado pelo aumento do número de satélites, megaconstelações e detritos espaciais em órbita terrestre, elevou significativamente o risco de colisões orbitais. Esses eventos podem causar prejuízos milionários, interrupção de serviços de comunicação e navegação, além de gerar novos fragmentos espaciais que aumentam ainda mais o risco operacional.
 
-Este projeto propõe uma solução baseada em Inteligência Artificial e Machine Learning para prever o nível de risco de conjunções orbitais e estimar a probabilidade de colisão (Probability of Collision), auxiliando operadores na tomada de decisão sobre possíveis manobras de mitigação.
-
 ## Fonte dos Dados
 
 Conforme permitido pela proposta do projeto, foi utilizado um conjunto de dados sintético gerado com auxílio de IA generativa (Claude).
@@ -47,9 +45,10 @@ Além das variáveis originais, foram criadas novas variáveis derivadas por mei
 
 ## Modelos Testados 
 
-Classificação do Nível de Risco: XGBoost Classifier e Random Forest Classifier
+Classificação do Nível de Risco: XGBoost Classifier e Random Forest Classifier.
 
-Regressão da Probabilidade de Colisão (Pc): XGBoost Regressor
+
+Regressão da Probabilidade de Colisão (Pc): XGBoost Regressor.
 
 ## Resultados
 
