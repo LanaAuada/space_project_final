@@ -9,6 +9,7 @@ Tony Willian da Silva Segalin RM550667
 
 ### A pasta space_project refere-se ao projeto com os resultados e outputs e a pasta space_project_clean refere-se ao projeto a ser executado à mão.
 ### A pasta prints_dash_deploy refere-se a amostra da aplicação no Streamlit.
+O projeto foi rodado no VSCode e essas intruções se baseiam no uso dele. 
 
 ---
 
